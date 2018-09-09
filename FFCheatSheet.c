@@ -21,7 +21,7 @@ int max;
 int min;
 int n;
 
-
+//TODO ability to enter rank files at command line
 int main(void)
 {
     // Initialize variables
@@ -78,7 +78,7 @@ int main(void)
             }
             if (j == (LIST_SIZE-1))
             {
-                // This is poor design, need to fix.
+                // TODO make struct unranked to store these players
                 value[k].rank = 88 + 1 + c;
                 c++;
             }
@@ -95,12 +95,14 @@ int main(void)
         if (value[d].rank < min)
         {
             min = value[d].rank;
+            //TODO Create char *playermin = value[d].name;
         }
     }
     printf("MAX: %d\n", max);
     printf("MIN: %d\n", min);
 
     n=min;
+    //TODO Replace "DWatson" with char *playermin
     // Make a linked list in order of rank differential
     for (int j = 0; j < LIST_SIZE; j++)
     {
