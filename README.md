@@ -12,7 +12,7 @@ harrisranks.txt and espnranks.txt were the lists used. Each list contains 164 pl
 
 <strong>Desciption</strong>
 
-This program was created solely for fun, and to practice using structs and pointers before I began learning Python. Many improvments could be made to the program (described below), but I have since learned better ways to accomplish my end goal. This program demonstrates my knowledge one month into learning how to code, more than anything else. I practiced a practical application for using pointers, linked lists, arrays, loops, structs, sorting methods, file operations, data gahtering, data manipulation, and comparing operations.
+This program was created solely for fun, and to practice using structs and pointers before I began learning Python. Many improvments could be made to the program (described below), but I have since learned better ways to accomplish my end goal. More than anything else, this program demonstrates my ability to come up with a solution to a problem using code approximately one month into learning. I also demonstrated my ability to use pointers, linked lists, arrays, loops, structs, sorting methods, file operations, data gathering, data manipulation, and comparing operations.
 
 
 <strong>Improvements</strong>
