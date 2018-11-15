@@ -1,4 +1,4 @@
-# RankComparison
+# List Comparison
 Compares pre-season fantasy football rankings from 2 different sources.
 
 <strong>Usage</strong>
