@@ -17,6 +17,6 @@ This program was created solely for fun, and to practice using structs and point
 
 <strong>Improvements</strong>
 
-Improvements could include entering the specific document to read at the command line, allowing any number of players in the list (more or less than 164), moving the functions outside of main, condensing the program from needing 2 structs to one, and putting players that only exist on one list in an entirely different block of memory. The most difficult, but perhaps most worthwhile improvement would be making the program run faster by using merge sort (probably sorting a struct array) instead of linear search. 
+Improvements could include entering the specific document to read at the command line, allowing any number of players in the list (more or less than 164), moving the functions outside of main, condensing the program from needing 2 structs to one, and putting players that only exist on one list in an entirely different block of memory. The program is also relatively slow and better suited for object-oriented programing.
 
 
